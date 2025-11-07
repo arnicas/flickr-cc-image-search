@@ -1,0 +1,5 @@
+{
+  "name": "Flickr CC Image Search",
+  "description": "An in-browser tool to search for and view images from Flickr that are licensed under Creative Commons, based on keyword searches.",
+  "requestFramePermissions": []
+}
